@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Wafaa Academic Profile"
+title                    : "Wafaa Academic Homepage"
 title_separator          : "-"
-name                     : &name "Wafaa"
-description              : &description "my academic and personal projects"
+name                     : &name "Wafaa Nasouh"
+description              : &description "website for my academic and personal projects"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
